@@ -1,1 +1,1 @@
-BFP CI test input.
+BFP CI test input, revision two.
